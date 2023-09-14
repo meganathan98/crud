@@ -1,0 +1,9 @@
+.form-control{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    height:100vh;
+    font: 1rem sans-serif;
+    flex-direction: column;
+    
+  }
